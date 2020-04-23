@@ -4,11 +4,11 @@
 Add a new line. Not commit yet. 
 
 
-This is a master branch, after merge with br1. 
+##This is a master branch, after merge with br1. 
 
-Add in br1 branch.
+### Add in br1 branch.
 
-Add in br2 branch.
+### Add in br2 branch.
 
 
-add new line for stashing.
+#### add new line for stashing.
