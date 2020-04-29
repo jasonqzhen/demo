@@ -22,4 +22,6 @@ Add a new line. Not commit yet.
 
 ## Now some instructions:
 * __INS1__
-* __INS2__
+	+ Go to ds1/ for code1
+* __INS2__	
+	+ Go to ds2/ for code2
