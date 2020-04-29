@@ -19,3 +19,7 @@ Add a new line. Not commit yet.
 ## Add new item 
 
 ## Line 2 before "stabel" tag
+
+## Now some instructions:
+* __INS1__
+* __INS2__
