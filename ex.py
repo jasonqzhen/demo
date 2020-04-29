@@ -3,7 +3,11 @@ import numpy as np
 
 nsum=0
 
-for i in range(10):
-    nsum += i
-   
-print('nsum=', i)
+def cal_sum(nsum):
+   for i in range(10):
+        nsum += i
+   return nsum
+
+print('nsum=', cal_sum(10))
+
+
